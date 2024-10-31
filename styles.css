@@ -239,4 +239,8 @@ footer .social-icons a {
 footer p {
     font-size: 16px;
 }
-
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
